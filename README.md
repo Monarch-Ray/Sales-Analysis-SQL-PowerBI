@@ -79,18 +79,12 @@ WHERE id NOT IN (
 
 
 
-<img width="793" height="454" alt="profit_margin" src="https://github.com/user-attachments/assets/3f1bd08a-70f8-41c3-b64b-b51dbb6d5138" />
-<img width="793" height="525" alt="profit_by_category" src="https://github.com/user-attachments/assets/e946fca9-7135-4ae6-9907-9acadb1e6125" />
-<img width="793" height="523" alt="order_quantity_kpi" src="https://github.com/user-attachments/assets/3efb4544-222e-4384-9a04-30b3d714a323" />
-<img width="802" height="545" alt="sales_kpi" src="https://github.com/user-attachments/assets/03d4f14f-ef2c-4204-a4fe-4ca997d2d1ca" />
-## 📊 Visualizations
-
-### KPI Overview – Sales & Orders
-<img width="802" height="545" alt="sales_kpi" src="https://github.com/user-attachments/assets/03d4f14f-ef2c-4204-a4fe-4ca997d2d1ca" />
-<img width="793" height="523" alt="order_quantity_kpi" src="https://github.com/user-attachments/assets/3efb4544-222e-4384-9a04-30b3d714a323" />
+## Visualisation
+### KPI Overview
+![Total Sales KPI](visuals/sales_kpi.png)
+![Order Quantity KPI](visuals/order_quantity_kpi.png)
 
 ### Profit Analysis
-<img width="793" height="454" alt="profit_margin" src="https://github.com/user-attachments/assets/3f1bd08a-70f8-41c3-b64b-b51dbb6d5138" />
+![Profit Margin](visuals/profit_margin.png)
+![Profit by Category](visuals/profit_by_category.png)
 
-### Profit by Category
-<img width="793" height="525" alt="profit_by_category" src="https://github.com/user-attachments/assets/e946fca9-7135-4ae6-9907-9acadb1e6125" />
