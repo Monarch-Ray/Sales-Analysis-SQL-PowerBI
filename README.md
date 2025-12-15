@@ -18,7 +18,7 @@ The objective is to generate data-driven insights that can support better busine
 
 ## 📂 Data Source
 - Dataset: Sample Superstore Dataset (Kaggle)  
-- Includes: Order Date, Region, Category, Sub-Category, Sales, Profit, Discount, Quantity  
+- Region, Category, Sub-Category, Sales, Profit, Discount, Quantity  
 - [Insert Dataset Link Here]
 
 ---
@@ -28,7 +28,6 @@ Data cleaning was performed entirely using SQL. Steps included:
 - Removing duplicates
 - Handling missing values
 - Standardizing text fields (Region, Category, Sub-Category)
-- Converting order dates to proper format
 - Filtering invalid or zero-value sales records
 
 **Example SQL Queries**
@@ -44,6 +43,8 @@ WHERE id NOT IN (
 -- Convert date format
 ALTER TABLE clean_sales
 ALTER COLUMN OrderDate DATE;
+
+
 <img width="793" height="454" alt="profit_margin" src="https://github.com/user-attachments/assets/3f1bd08a-70f8-41c3-b64b-b51dbb6d5138" />
 <img width="793" height="525" alt="profit_by_category" src="https://github.com/user-attachments/assets/e946fca9-7135-4ae6-9907-9acadb1e6125" />
 <img width="793" height="523" alt="order_quantity_kpi" src="https://github.com/user-attachments/assets/3efb4544-222e-4384-9a04-30b3d714a323" />
