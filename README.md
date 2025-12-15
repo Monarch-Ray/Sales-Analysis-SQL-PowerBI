@@ -75,16 +75,7 @@ WHERE id NOT IN (
   SELECT MIN(id)
   FROM clean_sales
   GROUP BY OrderID
-);
-
-
+)
 
 ## Visualisation
-### KPI Overview
-![Total Sales KPI](visuals/sales_kpi.png)
-![Order Quantity KPI](visuals/order_quantity_kpi.png)
-
-### Profit Analysis
-![Profit Margin](visuals/profit_margin.png)
-![Profit by Category](visuals/profit_by_category.png)
 
