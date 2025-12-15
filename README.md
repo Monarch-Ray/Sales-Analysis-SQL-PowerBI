@@ -7,12 +7,49 @@ The objective is to generate data-driven insights that can support better busine
 ---
 
 ## ❓ Business Questions
-- What is the total sales and total profit?
-- Which regions generate the highest sales and profit?
-- Which product categories and sub-categories are most profitable?
-- Which products consistently generate losses?
-- How do discounts impact profitability?
-- Are there any noticeable seasonal trends in sales?
+- What is the overall sales performance
+  Answer-
+  . The business demonstrates strong overall sales performance across all regions.
+  . Revenue is driven primarily by a few high-performing regions.
+  Key Takeaway:
+  . Sales are healthy, but growth can be accelerated by prioritizing top-performing regions.
+  
+- How profitable is the business?
+   Answer
+  . The business is profitable overall, with a positive profit margin.
+  . Profitability varies significantly by product category.
+ Key Takeaway:
+  . There is an opportunity to improve margins by optimizing underperforming categories.
+  
+- Which categories generate the most profit?
+   Answer 
+  . Technology is the most profitable category.
+  . Office Supplies perform moderately well.
+  . Furniture generates high sales but low profit margins.
+ Key Takeaway:
+  . High-margin categories should be prioritized to maximize profitability.
+  
+- Which areas negatively impact profitability?
+   Answer
+  . Certain sub-categories consistently generate losses.
+  . Losses are driven by high discount rates and cost structures.
+Key Takeaway:
+  . Loss-making products require pricing, discount, or cost review.
+  
+- What is the impact of discounts on profit?
+  Answer
+  . Higher discounts are strongly associated with lower profit.
+  . Discounting is most harmful in Furniture and Office Supplies.
+ Key Takeaway:
+  . Discount strategies should be optimized to protect profit margins.
+  
+- What should management prioritize?
+  Answer
+  . Focus on high-performing regions and categories.
+  . Reduce excessive discounting.
+  . Improve or eliminate consistently loss-making products.
+ Key Takeaway:
+  . Targeted optimization will improve both revenue growth and profitability.
 
 ---
 
@@ -40,9 +77,6 @@ WHERE id NOT IN (
   GROUP BY OrderID
 );
 
--- Convert date format
-ALTER TABLE clean_sales
-ALTER COLUMN OrderDate DATE;
 
 
 <img width="793" height="454" alt="profit_margin" src="https://github.com/user-attachments/assets/3f1bd08a-70f8-41c3-b64b-b51dbb6d5138" />
