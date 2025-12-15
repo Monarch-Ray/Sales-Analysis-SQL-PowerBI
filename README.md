@@ -7,22 +7,22 @@ The objective is to generate data-driven insights that can support better busine
 ---
 
 ## ❓ Business Questions
-- What is the overall sales performance
-  Answer-
+- What is the overall sales performance?
+  Answer:
   . The business demonstrates strong overall sales performance across all regions.
   . Revenue is driven primarily by a few high-performing regions.
   Key Takeaway:
   . Sales are healthy, but growth can be accelerated by prioritizing top-performing regions.
   
 - How profitable is the business?
-   Answer
+   Answer:
   . The business is profitable overall, with a positive profit margin.
   . Profitability varies significantly by product category.
  Key Takeaway:
   . There is an opportunity to improve margins by optimizing underperforming categories.
   
 - Which categories generate the most profit?
-   Answer 
+   Answer: 
   . Technology is the most profitable category.
   . Office Supplies perform moderately well.
   . Furniture generates high sales but low profit margins.
@@ -30,14 +30,14 @@ The objective is to generate data-driven insights that can support better busine
   . High-margin categories should be prioritized to maximize profitability.
   
 - Which areas negatively impact profitability?
-   Answer
+   Answer:
   . Certain sub-categories consistently generate losses.
   . Losses are driven by high discount rates and cost structures.
 Key Takeaway:
   . Loss-making products require pricing, discount, or cost review.
   
 - What is the impact of discounts on profit?
-  Answer
+  Answer:
   . Higher discounts are strongly associated with lower profit.
   . Discounting is most harmful in Furniture and Office Supplies.
  Key Takeaway:
