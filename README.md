@@ -82,11 +82,13 @@ During exploratory analysis, the dataset was analyzed to understand overall sale
 - Impact of discounts on profit
 
 ## Visualisation
-### KPI Overview
-<img width="802" height="545" alt="sales_kpi" src="https://github.com/user-attachments/assets/a46cf370-f766-41f8-b9ae-a38123892053" />
-<img width="793" height="523" alt="order_quantity_kpi" src="https://github.com/user-attachments/assets/bd409467-2989-4a70-9776-9a44a793d0be" />
-<img width="793" height="525" alt="profit_by_category" src="https://github.com/user-attachments/assets/b52bdb4c-9a74-4b45-bc58-b1f125075044" />
-<img width="793" height="454" alt="profit_margin" src="https://github.com/user-attachments/assets/7c0e38c8-9678-4193-b691-ce5a762f788f" />
+<img width="891" height="492" alt="overview" src="https://github.com/user-attachments/assets/de00e5ea-f3f6-4513-b045-7d74fc92ae2e" />
+
+
+
+
+
+
 
 ## Key Insights
 - Technology products contribute the highest profit margins.
