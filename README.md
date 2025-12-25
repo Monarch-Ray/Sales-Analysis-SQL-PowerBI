@@ -1,4 +1,4 @@
-# 📊 Sales Data Analysis Project (SQL + Power BI)
+# 📊 Sample-Store-Sales-Analysis (SQL + Power BI)
 
 ## 📌 Project Overview
 This project analyzes retail sales data to evaluate overall sales performance, profitability, and customer purchasing patterns.  
