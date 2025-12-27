@@ -82,7 +82,8 @@ During exploratory analysis, the dataset was analyzed to understand overall sale
 - Impact of discounts on profit
 
 ## Visualisation
-<img width="891" height="492" alt="overview" src="https://github.com/user-attachments/assets/de00e5ea-f3f6-4513-b045-7d74fc92ae2e" />
+<img width="893" height="501" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/c075a111-e021-453e-84a5-c5e095c85a0b" />
+
 
 
 
