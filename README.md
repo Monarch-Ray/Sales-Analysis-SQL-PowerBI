@@ -75,14 +75,18 @@ WHERE id NOT IN (
 ## Exploratory Data Analysis (EDA)
 
 During exploratory analysis, the dataset was analyzed to understand overall sales performance, profitability, and trends. Key areas explored included:
-
+- Total Profit
+- Total Sales
+- Total Orders
+- profit margin
+- Average Order Value (AOV)
 - Overall sales and profit distribution
 - Sales performance across regions
 - Profitability by product category
-- Impact of discounts on profit
+
 
 ## Visualisation
-<img width="893" height="501" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/c075a111-e021-453e-84a5-c5e095c85a0b" />
+<img width="938" height="549" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/34fe1a62-9f04-44be-b5dc-c80b9e081962" />
 
 
 
